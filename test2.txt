@@ -1,0 +1,4 @@
+There are 10 kinds of people in this world,
+those who understand ternary,
+those who don't
+and those who thought this was a binary joke.

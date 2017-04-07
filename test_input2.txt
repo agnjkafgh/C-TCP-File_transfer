@@ -1,0 +1,5 @@
+A local area network (LAN) is a network that connects computers 
+and devices in a limited geographical area such as a home, school, office building, 
+or closely positioned group of buildings. 
+Each computer or device on the network is a node. 
+Wired LANs are most likely based on Ethernet technology.

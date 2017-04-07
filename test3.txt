@@ -1,0 +1,3 @@
+Today is Tuesday.
+Yesterday was Monday.
+Tomorrow is Wednesday.
