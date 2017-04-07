@@ -2,7 +2,7 @@
 Server and client code to transfer files over a network using TCP/IP written on C
 
 Names of Authors: Ashwin Natarajan, Chandrakanth Mamillapalli
-Course Number and Name: CSE 434, Computer Networks
+Course Number and Name: CSE 434, Computer Networks, at Arizona State University
 Semester: Fall 2016
 Project Part: 2
 Time spent: 17 hours
@@ -36,4 +36,6 @@ Note about write lock:
 	Then the client will wait for the user to enter the file name of the file to be sent.
 	Upon receiving this input, the client will then send the file line by line.
 	The write lock can be tested in this time.
-	Or a 6000 line file called citizen5.txt will also be provided with out submission.
+	Or a 6000 line file called citizen5.txt will also be provided.
+
+Credits to our professor: Dr. Kanika Grover
